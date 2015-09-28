@@ -1,8 +1,8 @@
 #Getting Started
 
-Download a zip of this project.
+Download ZIP of this project.
 
-Open the gruntfile and change file names from *blank* to *yourprojectname*.
+Open Gruntfile.js and change file names from **blank** to **yourprojectname**.
 
 Open index.php and update paths to files.
 
@@ -28,7 +28,7 @@ Make sure to recompile whenever you change the source files (grunt dist).
 #Mixins
 ##background-opacity
 
-The background opactiy mixin allows you to set the background to a rgba value using a color variable.
+The background opacity mixin allows you to set the background to a rgba value using a color variable.
 
 ```
 div {
