@@ -9,11 +9,9 @@
 
     <!-- Bootstrap -->
     <link href="bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/flint.css" rel="stylesheet">
+    <link href="css/blank.css" rel="stylesheet">
     <link href="assets/webfonts/ss-social-circle.css" rel="stylesheet">
     <link href="assets/webfonts/ss-community.css" rel="stylesheet">
-    <script src="https://use.typekit.net/rrd8mvr.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

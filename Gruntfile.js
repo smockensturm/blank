@@ -8,7 +8,7 @@ module.exports = function(grunt) {
 			},
 	        dist:{
 	            files:{
-		            'css/flint.css': ['css/sass/style.scss']
+		            'css/blank.css': ['css/sass/style.scss']
 		        }
 			}
 		},
@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     		},
 			scripts: {
 				files: {
-					'js/flint.js': ['js/lib/*.js']
+					'js/blank.js': ['js/lib/*.js']
         		}
     		}
   		},
@@ -28,7 +28,7 @@ module.exports = function(grunt) {
 		autoprefixer: {
             dist: {
                 files: {
-                    'css/flint.css': ['css/blank.css']
+                    'css/blank.css': ['css/blank.css']
                 }
             }
         },
