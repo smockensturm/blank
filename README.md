@@ -1,3 +1,15 @@
+#Getting Started
+
+Download a zip of this project.
+
+Open the gruntfile and change file names from *blank* to *yourprojectname*.
+
+Open index.php and update paths to files.
+
+[Compile bootstrap](https://github.com/rachelrine/blank#bootstrap-4-instructions) for the first time.
+
+Initialize a new repository and commit files.
+
 #Bootstrap 4 Instructions
 
 Set defaults in bootstrap/scss/_variables.scss
