@@ -47,5 +47,7 @@ The _variables.scss file is imported to the main stylesheet, so the variables ar
 #Available Plugins
 
 zoom.js
+
 owl carousel 2
+
 modernizr (dev config)
